@@ -4,7 +4,8 @@ int main () {
     int array[50];
 
     printf("Suka suka dia lah, malas aing");
-    //malassss
+    scanf("%d", &a);
+    
     printf("Masukkan angka: ");
 
     scanf("Masukkan angka: ");
