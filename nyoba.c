@@ -5,7 +5,7 @@ int main () {
     
     printf("Masukkan angka: ");
 
-    scanf("Masukkan angka: ");//kena NT guys
+    scanf("Masukkan angka: ");
 
     return 0;
 }
