@@ -5,7 +5,7 @@ int main () {
 
     printf("Suka suka dia lah, malas aing");
 
-    //malasssssss
+    //malassssss
     printf("Masukkan angka: ");
 
     scanf("Masukkan angka: ");
