@@ -2,6 +2,7 @@
 int main () {
     int a, b;
     printf("Suka suka dia lah, malas aing");
+    scanf("%d", &a);
     
     printf("Masukkan angka: ");
 
