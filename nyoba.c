@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main () {
     int a, b;
+    int array[50];
+
     printf("Suka suka dia lah, malas aing");
     
     printf("Masukkan angka: ");
