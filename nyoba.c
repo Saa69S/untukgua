@@ -2,7 +2,10 @@
 int main () {
     int a, b;
     printf("Suka suka dia lah, malas aing");
+    
     printf("Masukkan angka: ");
-    scanf("Masukkan angka: ");
+
+    scanf("Masukkan angka: ");//kena NT guys
+
     return 0;
 }
